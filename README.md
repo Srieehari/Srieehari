@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Computer Science at NYU
 - 💞️ I’m looking to collaborate on ANYTHING
 - 📫 How to reach me srieehari.muthu@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm Batman
 
 <!---
 Srieehari/Srieehari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
